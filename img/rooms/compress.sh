@@ -1,0 +1,12 @@
+convert -strip -interlace Plane -gaussian-blur 0.05 -quality 50% xray.jpg xray.small.jpg
+convert -strip -interlace Plane -gaussian-blur 0.05 -quality 50% trauma.jpg trauma.small.jpg
+convert -strip -interlace Plane -gaussian-blur 0.05 -quality 50% room3.jpg room3.small.jpg
+convert -strip -interlace Plane -gaussian-blur 0.05 -quality 50% reception2.jpg reception2.small.jpg
+convert -strip -interlace Plane -gaussian-blur 0.05 -quality 50% reception.jpg reception.small.jpg
+convert -strip -interlace Plane -gaussian-blur 0.05 -quality 50% pediatric_room2.jpg pediatric_room2.small.jpg
+convert -strip -interlace Plane -gaussian-blur 0.05 -quality 50% pediatric_room.jpg pediatric_room.small.jpg
+convert -strip -interlace Plane -gaussian-blur 0.05 -quality 50% ortho.jpg ortho.small.jpg
+convert -strip -interlace Plane -gaussian-blur 0.05 -quality 50% obgyn.jpg obgyn.small.jpg
+convert -strip -interlace Plane -gaussian-blur 0.05 -quality 50% lab.jpg lab.small.jpg
+convert -strip -interlace Plane -gaussian-blur 0.05 -quality 50% hall.jpg hall.small.jpg
+convert -strip -interlace Plane -gaussian-blur 0.05 -quality 50% ent.jpg ent.small.jpg
